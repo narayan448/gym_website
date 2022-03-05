@@ -1,0 +1,32 @@
+
+.registration_form{
+    background-image:url("../images/n2.jpg");
+    background-size:cover;
+    background-position:center;
+}
+.bg-black{
+    background-color:rgb(12, 12, 11);
+}
+
+.carousel-caption {
+    padding-bottom:2.25rem;
+}
+
+.carousel-indicators{
+    margin-bottom: 2rem;
+}
+
+.color_W{
+    color:white;
+}
+.color_G{
+    color:gold;
+}
+.color_S{
+    color:silver;
+}
+.color_D{
+    color:cyan;
+}
+
+
